@@ -245,7 +245,7 @@ export default function App() {
 
           <div className="pt-10 border-t border-current/5 flex flex-col md:flex-row items-center justify-between gap-4">
             <p className="text-[9px] uppercase tracking-widest opacity-40">
-              © 2026 Vantage Fashion. All rights reserved.
+              © 2026 Tasheen Lifestyle. All rights reserved.
             </p>
             <div className="flex items-center gap-6">
               <a href="#" className="text-[9px] uppercase tracking-widest opacity-40 hover:opacity-100 transition-opacity">Privacy Policy</a>
